@@ -1,0 +1,87 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "539abdff1ecca0f95ba9991932f4691b05d5a53146598b58b6fed565fb05074e",
+    "telemetry.devDeviceId": "37b03d68-6ca4-40c4-9cdd-308f1b26ac32",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/emilio/.config"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/emilio/.config/hypr": "__default__profile__",
+            "file:///home/emilio/.config": "__default__profile__",
+            "file:///home/emilio/.config/rofi": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#09090b",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(189, 199, 208, 0.6)",
+            "background": "#09090b",
+            "editorBackground": "#09090b",
+            "titleBarBackground": "#09090b",
+            "titleBarBorder": "#09090b",
+            "activityBarBackground": "#09090b",
+            "activityBarBorder": "#09090b",
+            "sideBarBackground": "#09090b",
+            "sideBarBorder": "#09090b",
+            "statusBarBackground": "#09090b",
+            "statusBarBorder": "#09090b",
+            "statusBarNoFolderBackground": "#0b0b0d"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 195,
+            "auxiliaryBarWidth": 195,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/emilio/.config",
+            "backupPath": "/home/emilio/.config/Code - OSS/Backups/6c3c7a4704f8bfcd9c9989e738663c3e",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 800,
+                "height": 852
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 195,
+            "auxiliaryBarWidth": 195,
+            "workspaces": {
+                "dbee17d30ce496ea57eb98a305b37bda": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "cc2cf3ea597065f6d7041d0e7192c595": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "e819ab1f4f110fc06711ba180edd58ae": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

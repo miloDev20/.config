@@ -1,0 +1,6 @@
+2025-12-17 16:36:09.146 [info] Getting Manifest... dlasagno.wal-theme
+2025-12-17 16:36:10.349 [info] Installing extension: dlasagno.wal-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/emilio/.vscode-oss/extensions/extensions.json","path":"/home/emilio/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2025-12-12T19:06:53.864Z"}}
+2025-12-17 16:36:13.155 [info] Extension signature verification result for dlasagno.wal-theme: Success. Executed: true. Duration: 877ms.
+2025-12-17 16:36:13.335 [info] Extracted extension to file:///home/emilio/.vscode-oss/extensions/dlasagno.wal-theme-1.1.2-universal: dlasagno.wal-theme
+2025-12-17 16:36:13.349 [info] Renamed to /home/emilio/.vscode-oss/extensions/dlasagno.wal-theme-1.1.2-universal
+2025-12-17 16:36:13.374 [info] Extension installed successfully: dlasagno.wal-theme vscode-userdata:/home/emilio/.vscode-oss/extensions/extensions.json

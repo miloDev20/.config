@@ -1,0 +1,21 @@
+2025-12-17 16:27:38.929 [info] Extension host with pid 6316 started
+2025-12-17 16:27:38.929 [info] Skipping acquiring lock for /home/emilio/.config/Code - OSS/User/workspaceStorage/cc2cf3ea597065f6d7041d0e7192c595.
+2025-12-17 16:27:39.209 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-17 16:27:39.266 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-17 16:27:39.329 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-17 16:27:39.341 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-17 16:27:39.394 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-17 16:27:39.548 [info] Eager extensions activated
+2025-12-17 16:27:39.566 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-17 16:27:39.569 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-17 16:28:34.066 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-17 16:28:34.084 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-17 16:28:34.189 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-17 16:29:32.514 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-12-17 16:30:09.117 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-17 16:30:09.149 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-12-17 16:36:13.654 [info] ExtensionService#_doActivateExtension dlasagno.wal-theme, startup: false, activationEvent: '*'
+2025-12-17 16:55:51.639 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-17 16:55:52.354 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-12-17 16:57:06.220 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-17 16:57:06.255 [info] Extension host with pid 6316 exiting with code 0

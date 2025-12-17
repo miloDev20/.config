@@ -1,0 +1,35 @@
+2025-12-16 18:42:05.156 [info] Extension host with pid 14625 started
+2025-12-16 18:42:05.211 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-16 18:42:05.240 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-16 18:42:05.295 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-16 18:42:05.302 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-16 18:42:05.355 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-16 18:42:05.477 [info] Eager extensions activated
+2025-12-16 18:42:05.479 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 18:42:05.481 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 18:43:21.379 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-16 18:43:21.392 [info] Extension host with pid 14625 exiting with code 0
+2025-12-16 18:43:22.684 [info] Extension host with pid 15920 started
+2025-12-16 18:43:22.684 [info] Skipping acquiring lock for /home/emilio/.config/Code - OSS/User/workspaceStorage/e819ab1f4f110fc06711ba180edd58ae.
+2025-12-16 18:43:22.796 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-16 18:43:22.825 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-16 18:43:22.873 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-16 18:43:22.879 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-16 18:43:22.930 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-16 18:43:23.068 [info] Eager extensions activated
+2025-12-16 18:43:23.071 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 18:43:23.073 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 18:44:47.143 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-16 18:44:47.159 [info] Extension host with pid 15920 exiting with code 0
+2025-12-16 18:44:48.709 [info] Extension host with pid 16224 started
+2025-12-16 18:44:48.709 [info] Skipping acquiring lock for /home/emilio/.config/Code - OSS/User/workspaceStorage/cc2cf3ea597065f6d7041d0e7192c595.
+2025-12-16 18:44:48.724 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-16 18:44:48.757 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-16 18:44:48.824 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-16 18:44:48.830 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-16 18:44:48.881 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-16 18:44:49.032 [info] Eager extensions activated
+2025-12-16 18:44:49.038 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 18:44:49.040 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 18:54:51.790 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-16 18:54:51.801 [info] Extension host with pid 16224 exiting with code 0
