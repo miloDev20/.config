@@ -31,3 +31,4 @@
 2025-12-17T16:03:51.167Z - info: [ui] [Welcome] no sign in step found. ignoring...
 2025-12-17T16:03:51.678Z - info: [ui] Subscribed 'miloDev20' to Alive channel
 2025-12-17T16:04:28.578Z - info: [ui] [AppStore] adding repository at /home/emilio/.config to store
+2025-12-17T16:04:30.715Z - info: [ui] Executing updateIndex: git update-index --add --remove --replace -z --stdin (took 1.650s)
