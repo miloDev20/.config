@@ -1,0 +1,9 @@
+2025-12-18 17:09:32.761 [info] Started local extension host with pid 2437.
+2025-12-18 17:09:35.723 [info] [perf] Render performance baseline is 165ms
+2025-12-18 17:12:46.092 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/emilio/.config/waybar/configs/%5BTOP%5D%20Emilio 
+2025-12-18 17:12:47.142 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-18 17:12:47.400 [info] Started local extension host with pid 5025.
+2025-12-18 17:12:50.372 [info] [perf] Render performance baseline is 199ms
+2025-12-18 17:13:10.003 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-18 17:13:10.210 [info] Started local extension host with pid 5575.
+2025-12-18 17:13:13.100 [info] [perf] Render performance baseline is 189ms

@@ -1,0 +1,11 @@
+2025-12-18 10:54:08.398 [info] Extension host with pid 21772 started
+2025-12-18 10:54:08.414 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-18 10:54:08.451 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-18 10:54:08.458 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-18 10:54:08.518 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-18 10:54:08.615 [info] Eager extensions activated
+2025-12-18 10:54:08.635 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 10:54:08.639 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 10:54:08.658 [info] ExtensionService#_doActivateExtension t3dotgg.vsc-material-theme-but-i-wont-sue-you, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 10:55:13.122 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-18 10:55:13.132 [info] Extension host with pid 21772 exiting with code 0

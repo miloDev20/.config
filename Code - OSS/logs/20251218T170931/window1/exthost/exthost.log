@@ -1,0 +1,48 @@
+2025-12-18 17:09:33.517 [info] Extension host with pid 2437 started
+2025-12-18 17:09:33.559 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-18 17:09:33.610 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-18 17:09:33.679 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-18 17:09:33.697 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-18 17:09:33.780 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-18 17:09:33.932 [info] Eager extensions activated
+2025-12-18 17:09:33.969 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 17:09:33.972 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 17:09:34.002 [info] ExtensionService#_doActivateExtension t3dotgg.vsc-material-theme-but-i-wont-sue-you, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 17:09:34.368 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-18 17:09:34.379 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-18 17:09:34.409 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-12-18 17:09:34.482 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-12-18 17:12:46.122 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-18 17:12:46.134 [info] Extension host with pid 2437 exiting with code 0
+2025-12-18 17:12:48.205 [info] Extension host with pid 5025 started
+2025-12-18 17:12:48.205 [info] Skipping acquiring lock for /home/emilio/.config/Code - OSS/User/workspaceStorage/297436cfaf09ac486f4db051c5afd620.
+2025-12-18 17:12:48.247 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-18 17:12:48.290 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-18 17:12:48.369 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-18 17:12:48.381 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-18 17:12:48.463 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-18 17:12:48.637 [info] Eager extensions activated
+2025-12-18 17:12:48.712 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 17:12:48.714 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 17:12:48.744 [info] ExtensionService#_doActivateExtension t3dotgg.vsc-material-theme-but-i-wont-sue-you, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 17:13:09.191 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-18 17:13:09.202 [info] Extension host with pid 5025 exiting with code 0
+2025-12-18 17:13:11.071 [info] Extension host with pid 5575 started
+2025-12-18 17:13:11.071 [info] Skipping acquiring lock for /home/emilio/.config/Code - OSS/User/workspaceStorage/9659f245dc4dc64d8f291019aeac40a1.
+2025-12-18 17:13:11.087 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-18 17:13:11.129 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-18 17:13:11.197 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-18 17:13:11.211 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-18 17:13:11.297 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-18 17:13:11.482 [info] Eager extensions activated
+2025-12-18 17:13:11.484 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 17:13:11.487 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 17:13:11.516 [info] ExtensionService#_doActivateExtension t3dotgg.vsc-material-theme-but-i-wont-sue-you, startup: false, activationEvent: 'onStartupFinished'
+2025-12-18 17:13:16.297 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-18 17:13:16.319 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-18 17:13:16.431 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-18 17:13:20.294 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-18 17:13:20.326 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-12-18 17:16:11.957 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-12-18 17:42:01.609 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-18 17:42:01.639 [info] Extension host with pid 5575 exiting with code 0

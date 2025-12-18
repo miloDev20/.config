@@ -1,5 +1,0 @@
-2025-12-16 16:56:16.224 [info] Started local extension host with pid 6791.
-2025-12-16 16:56:17.426 [error] [Extension Host] (node:6791) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
-(Use `exe --trace-deprecation ...` to show where the warning was created)
-2025-12-16 16:56:19.066 [info] [perf] Render performance baseline is 156ms
-2025-12-16 16:58:24.797 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

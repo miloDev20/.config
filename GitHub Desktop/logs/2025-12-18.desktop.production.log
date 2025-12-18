@@ -1,0 +1,4 @@
+2025-12-18T16:48:24.803Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-12-18T16:48:24.807Z - info: [ui] [AppStore] found account: miloDev20 (miloDev20)
+2025-12-18T16:48:24.999Z - info: [ui] launching: 3.4.14-linux1 (Linux 6.17.9-arch1-1)
+2025-12-18T16:48:25.005Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'

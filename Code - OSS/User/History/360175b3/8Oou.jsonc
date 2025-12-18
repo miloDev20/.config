@@ -1,0 +1,35 @@
+{
+    "layer": "right",
+    "position": "right",
+    "modules-left": ["hyprland/workspaces", "sway/mode"],
+    "modules-center": ["clock"],
+    "modules-right": ["cpu", "memory", "battery", "custom/power"],
+
+
+    "clock": {
+        "format": "{:%H:%M}"
+    },
+ "battery": {
+    "interval": 60,
+    "states": {
+        "warning": 30,
+        "critical": 15
+    },
+    "format": "{capacity}% {icon}",
+    "format-icons": ["", "", "", "", ""]
+},
+
+"hyprland/workspaces": {
+    "format": "{icon}",
+    "on-click": "activate",
+    "persistent-workspaces": {
+        "*": 5
+    }
+},
+"custom/power": {
+    "format": "⏻",
+    "on-click": "wlogout"
+}
+
+
+}
